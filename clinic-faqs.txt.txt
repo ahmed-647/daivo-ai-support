@@ -1,0 +1,40 @@
+﻿Q: What are your clinic's working hours?
+A: Our clinic is open Monday to Saturday from 9:00 AM to 9:00 PM. We are closed on Sundays.
+Q: How can I book an appointment?
+A: You can book an appointment by sending a WhatsApp message or calling us at 0300-1234567.
+Q: Which doctors are available?
+A: We have a General Physician, Skin Specialist (Dermatologist), and Dental Surgeon available.
+Q: Are walk-ins allowed, or is an appointment required?
+A: Walk-ins are welcome, but booking an appointment helps reduce your waiting time.
+Q: What is the consultation fee?
+A: The consultation fee is Rs. 1,500 for a General Physician and Rs. 2,500 for a Specialist.
+Q: What specialties do you offer?
+A: We provide services in General Medicine, Dermatology (Skin Care), Dentistry, and Pediatrics.
+Q: Where is your clinic located?
+A: Our clinic is located in Gulshan-e-Iqbal, Karachi.
+Q: What should I do in case of an emergency?
+A: For emergencies, please call us immediately at 0300-1234567, and our team will guide you.
+Q: Do you offer online consultations?
+A: Yes, we provide online consultations through video calls.
+Q: How will I receive my medical reports?
+A: Your reports will be sent via WhatsApp or email within 24–48 hours.
+Q: Do you accept insurance?
+A: Yes, we accept selected insurance providers. Please call us to confirm your insurance coverage.
+Q: How can I cancel or reschedule my appointment?
+A: You can cancel or reschedule your appointment by informing us via WhatsApp at least 2 hours before your scheduled time.
+Q: What documents should I bring for my first visit?
+A: Please bring your CNIC (National ID Card) and any previous medical reports or prescriptions, if available.
+Q: Are lab tests performed at the clinic?
+A: Basic laboratory tests are performed at our clinic. Specialized tests are sent to our partner laboratories.
+Q: What payment methods do you accept?
+A: We accept Cash, Easypaisa, JazzCash, and Card payments.
+Q: Can I speak directly with the doctor?
+A: Yes, you can speak directly with the doctor during your scheduled consultation.
+Q: Do you treat children?
+A: Yes, we have a Pediatric Specialist available for children's healthcare.
+Q: Is the follow-up visit free or paid?
+A: Follow-up visits are free within 7 days of your initial consultation.
+Q: Is parking available?
+A: Yes, free parking is available in front of the clinic.
+Q: What is your contact number / WhatsApp number?
+A: 0300-1234567 — This number can be used for both calls and WhatsApp.
