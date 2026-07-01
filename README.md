@@ -20,7 +20,7 @@
 ---
 
 
-# 📖 Overview
+# Overview
 
 DaiVo AI Support is a production-ready AI customer support platform developed to demonstrate how modern businesses can automate customer interactions while maintaining intelligent, human-like conversations.
 
@@ -74,7 +74,7 @@ This approach ensures that the project reflects industry-standard engineering pr
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 The platform follows a layered architecture where each component has a dedicated responsibility.
 
@@ -129,7 +129,7 @@ daivo-ai-support/
 
 ---
 
-# 🌍 Business Applications
+# Business Applications
 
 The platform can easily be adapted for multiple industries including:
 
