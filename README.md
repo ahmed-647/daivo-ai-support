@@ -1,8 +1,12 @@
+<div align="center">
+
 # 🤖 DaiVo AI Support
 
 > **AI-Powered Customer Support Platform built to automate business conversations using Large Language Models, modern DevOps practices, and cloud-ready architecture.**
 
-##Designed, containerized, deployed, and automated using modern DevOps practices.
+### *Designed, containerized, deployed, and automated using modern DevOps practices.*
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -11,7 +15,10 @@
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-success)
 ![Status](https://img.shields.io/badge/Deployment-Live-brightgreen)
 
+</div>
+
 ---
+
 
 # 📖 Overview
 
