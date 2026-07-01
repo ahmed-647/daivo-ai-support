@@ -19,4 +19,4 @@ jobs:
           docker build -t ai-support .
           docker stop ai-support || true
           docker rm ai-support || true
-          docker run -dp 8501:8501 --env-file .env ai-support
+          docker run -dp 8501:8501 --env-file .env ai-support01~
