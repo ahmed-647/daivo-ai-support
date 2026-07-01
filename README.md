@@ -77,6 +77,7 @@ This approach ensures that the project reflects industry-standard engineering pr
 # System Architecture
 
 The platform follows a layered architecture where each component has a dedicated responsibility.
+<img width="1536" height="1024" alt="ChatGPT Image Jul 1, 2026, 04_34_09 PM" src="https://github.com/user-attachments/assets/30bd8b83-d493-4c2a-92fa-6c67725f9854" />
 
 Each layer operates independently while working together to provide an efficient, scalable, and maintainable AI-powered customer support experience.
 
