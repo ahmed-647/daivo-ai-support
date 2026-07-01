@@ -71,40 +71,6 @@ This approach ensures that the project reflects industry-standard engineering pr
 
 The platform follows a layered architecture where each component has a dedicated responsibility.
 
-```
-                     Customer
-
-                         │
-
-                         ▼
-
-              Streamlit Web Interface
-
-                         │
-
-                         ▼
-
-               Application Layer
-
-                         │
-
-                         ▼
-
-              OpenAI Language Model
-
-                         │
-
-                         ▼
-
-          Business Knowledge & Context
-
-                         │
-
-                         ▼
-
-              Intelligent AI Response
-```
-
 Each layer operates independently while working together to provide an efficient, scalable, and maintainable AI-powered customer support experience.
 
 ---
